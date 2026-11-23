@@ -1,0 +1,2 @@
+LIMITE_CREDITOS_PADRAO = 20
+DB_PATH = "planejador.db"
